@@ -1,0 +1,7 @@
+name: shards-test-mylib
+version: 0.1.0
+
+dependencies:
+  shards-test-foobar:
+    github: KCErb/shards-test-foobar
+    version: "~> 0.1"

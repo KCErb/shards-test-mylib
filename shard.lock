@@ -1,0 +1,6 @@
+version: 1.0
+shards:
+  shards-test-foobar:
+    github: KCErb/shards-test-foobar
+    version: 0.1.0
+
